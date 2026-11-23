@@ -1,4 +1,9 @@
-## Hi there 👋
+<a href="https://certdirectory.io/profile/fabiosaraiva?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/fabiosaraiva.svg?style=card&theme=dark">
+    <img alt="Fábio Saraiva on CertDirectory" src="https://certdirectory.io/badge/fabiosaraiva.svg?style=card">
+  </picture>
+</a>
 
 <!--
 **fabiosaraiva/fabiosaraiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
