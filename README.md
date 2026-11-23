@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fábio 👋</h1>
+<h1 align="center">Hi, I'm Fábio! 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,13 +6,13 @@
   </a>
 </p>
 
-I'm a cloud-native consultant with 10+ years of experience across infrastructure, cloud engineering, and platform consulting. I enjoy helping teams build and operate secure, scalable, and reliable platforms with Azure, Kubernetes, GitOps, and Infrastructure as Code.
+I'm a cloud-native consultant with 10+ years of experience helping organizations build secure, scalable, and reliable cloud platforms. My work spans infrastructure, cloud engineering, and platform consulting, from hands-on implementation to strategic guidance in areas such as platform engineering, CI/CD, Bicep, Terraform, observability, and operational excellence.
 
-From hands-on engineering to strategic advice, I work with teams on platform engineering, CI/CD, Bicep, Terraform, observability, and operational excellence.
+Based in Portugal, I work remotely for Intercept B.V. in the Netherlands.
 
-I live in Portugal and work remotely for Intercept B.V. in the Netherlands. Outside of work, I'm a huge nerd who loves horror, fantasy, and sci-fi, both in books and computer games. I'm also into board and tabletop games and building LEGO, and I enjoy swimming and hiking.
+When I'm not working, I'm usually reading horror, fantasy, or sci-fi, playing computer or tabletop games, building LEGO, or getting outdoors for a swim or hike.
 
-## Connect
+## Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fabiosaraiva21/">
