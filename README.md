@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/fabiosaraiva21/">
+    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
   My certifications on CertDirectory:
 </p>
 
@@ -18,12 +24,3 @@
     </picture>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabiosaraiva21/">LinkedIn</a>
-</p>
-
-## Featured projects
-
-- [media-stack](https://github.com/fabiosaraiva/media-stack) — A simple media stack on k3s.
-- [pandalabs.dev](https://github.com/fabiosaraiva/pandalabs.dev) — A blog about tech and gaming.
